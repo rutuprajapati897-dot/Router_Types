@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import HashPage from "./pages/HashPage";
+import HashPage from "./Pages/HashPage";
 import MemoryPage from "./Pages/MemoryPage";
 import StaticPage from "./Pages/StaticPage";
 
