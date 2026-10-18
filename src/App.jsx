@@ -1,8 +1,8 @@
 
 import { useState } from "react";
 import HashPage from "./pages/HashPage";
-import MemoryPage from "./pages/MemoryPage";
-import StaticPage from "./pages/StaticPage";
+import MemoryPage from "./Pages/MemoryPage";
+import StaticPage from "./Pages/StaticPage";
 
 export default function App() {
   const [type, setType] = useState("hash");
